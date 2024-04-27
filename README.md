@@ -2,5 +2,6 @@ Projeto pessoal para facilitar o download de vídeos do youtube, podendo alterna
 
 Para utilizar é preciso instalar o python3 e fazer o pip install dos imports de cada arquivo. Após isso, basta digitar py gui.py para rodar a interface de interação.
 
-![image](https://github.com/nicolas-moura11/youtube_downloader/assets/126966062/e740e56f-a179-46dc-a134-d487f8814374)
+![image](https://github.com/nicolas-moura11/youtube_downloader/assets/126966062/0169983a-a7c1-476a-ab12-8e72eacc0806)
+
 
